@@ -82,10 +82,10 @@ Churn Segment Breakdown — Donut chart showing customer concentration
 Customer Value & Churn Table — Conditional formatting highlights retention priorities
 Updates dynamically via BigQuery's native Looker Studio connector.
 
-🔍 Key Findings
+🔍 Key Findings - 
 High churn risk clusters in low-recency, low-frequency households | Target win-back campaigns for inactive customers | | Mid-value customers dominate CLV distribution | Largest opportunity for upsell and cross-sell | | Several high-CLV households show elevated churn probability | Immediate retention action required | | Spending is concentrated among a small loyal group | Loyalty program expansion opportunity |
 
-🧰 Tech Stack
+🧰 Tech Stack - 
  Google BigQuery | SQL modeling, feature engineering, aggregations | | Looker Studio | BI dashboards and interactive visualization | | Google Cloud Storage | Dataset ingestion and storage | | Kaggle (dunnhumby) | Transactional retail dataset | | SQL | CASE logic, window functions, segmentation |
 
 🎯 Business Applications
